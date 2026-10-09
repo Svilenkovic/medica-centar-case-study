@@ -33,6 +33,15 @@ Nov sajt ima 55 strana usluga (25 u ginekologiji, 10 u trudnoći i 20 u kozmetol
 - MedicalClinic podaci i BreadcrumbList na 68 strana, a FAQPage na 53 strane, sastavljen od 178 pitanja koja su već bila napisana na stranama usluga
 - Kontakt forma preneta na klijentov hosting sa lokalnom kopijom zaštitnog modula na koji se oslanjala, testirana uz privremenog primaoca da ordinacija ne dobije probne poruke
 
+## Merenja
+
+| | Performanse | Pristupačnost | Dobre prakse | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Telefon | 99 | 100 | 100 | 100 |
+| Desktop | 99 | 100 | 100 | 100 |
+
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `MedicalClinic`.
+
 ## Snimci ekrana
 
 <table>

@@ -4,7 +4,7 @@
 
 New site for a gynecology practice in Niš: 55 service pages built from JSON files, 69 redirects from the old site and a panel the practice edits itself.
 
-**[medicacentar.info](https://medicacentar.info/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/medica-centar) · [Srpski](README.sr.md)
+**[medicacentar.info](https://medicacentar.info/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/medica-centar) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -32,6 +32,15 @@ The new site has 55 service pages (25 in gynecology, 10 in pregnancy, 20 in cosm
 - The logo redrawn as SVG from a 300 by 80 px PNG, and every photo in AVIF, the largest at 52 KB
 - MedicalClinic data, BreadcrumbList on 68 pages and FAQPage on 53, taken from 178 questions already written on the service pages
 - A contact form moved to the client's hosting with a local copy of the protection module it relied on, tested with a temporary recipient so the practice got no test messages
+
+## Results
+
+| | Performance | Accessibility | Best practices | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Mobile | 99 | 100 | 100 | 100 |
+| Desktop | 99 | 100 | 100 | 100 |
+
+PageSpeed Insights, lab test of the live site, October 2026. axe accessibility check: no violations. Structured data: `MedicalClinic`.
 
 ## Screenshots
 
