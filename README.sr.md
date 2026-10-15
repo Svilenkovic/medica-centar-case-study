@@ -38,9 +38,9 @@ Nov sajt ima 55 strana usluga (25 u ginekologiji, 10 u trudnoći i 20 u kozmetol
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
 | Telefon | 99 | 100 | 100 | 100 |
-| Desktop | 99 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `MedicalClinic`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `MedicalClinic`.
 
 ## Snimci ekrana
 

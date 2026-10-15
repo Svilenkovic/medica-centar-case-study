@@ -38,9 +38,9 @@ The new site has 55 service pages (25 in gynecology, 10 in pregnancy, 20 in cosm
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
 | Mobile | 99 | 100 | 100 | 100 |
-| Desktop | 99 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, October 2026. axe accessibility check: no violations. Structured data: `MedicalClinic`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. axe accessibility check: no violations. Structured data: `MedicalClinic`.
 
 ## Screenshots
 
